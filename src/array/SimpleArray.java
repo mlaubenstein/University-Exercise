@@ -95,7 +95,7 @@ public class SimpleArray {
         return checksum;
     }
 
-    public static void sortArray (double[] array ) {
+    public static void sortArray(double[] array) {
         double dummy;
         double[] sortArray = new double[0];
         for (int i = 1; i < array.length; i++) {
